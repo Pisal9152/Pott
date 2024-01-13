@@ -1,0 +1,25 @@
+/* .cas{
+  padding: 2px;
+  width: 100%;
+ 
+} */
+.Itemstyle{
+ width: 160%;
+  height: 440px;
+  background-color: pink;
+ 
+ 
+}
+.img{
+ 
+  width: 100%;
+  height: 440px;
+}
+.carousel-container {
+  max-width: 100%;
+}
+
+.responsive-image {
+  width: 100%;
+  height: auto;
+}

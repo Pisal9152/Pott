@@ -1,0 +1,26 @@
+
+.comment{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+}
+.user{
+    color: white;
+}
+.Comment{
+
+    color: white;
+}
+.button{
+    width: 90px;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    background-color: #75A9B6;
+}
+.backgroung{
+    padding: 15px;
+    background-color: #001529;
+    border-radius: 10px;
+    
+}
